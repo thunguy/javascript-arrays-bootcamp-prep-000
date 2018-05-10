@@ -49,7 +49,9 @@ var chocolateBars = [
     return array.pop();
   }
   
-  removeElementFromEndOfArray
+  function removeElementFromEndOfArray(array) {
+    return array.slice
+  }
   
   
   
