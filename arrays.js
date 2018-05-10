@@ -45,6 +45,9 @@ var chocolateBars = [
     return array.slice();
   }
   
+  function destructivelyRemoveElementFromEndOfArray (array) {
+    return array.push();
+  }
   
   
   
